@@ -1,4 +1,4 @@
-import cv2
+import cv
 import os
 
 cam = cv2.VideoCapture(0)
